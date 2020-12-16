@@ -39,6 +39,7 @@ p{
 a{
  color: #e03e36;
  text-decoration: none;
+ margin: 10px 20px;
 }
 
 a:hover{
@@ -78,8 +79,6 @@ a:hover{
 }
 
 .bottom-container{
-  margin: 0;
-  height: 55px;
   background-color: #ffe2e2;
   padding: 50px 0 20px;
 }
